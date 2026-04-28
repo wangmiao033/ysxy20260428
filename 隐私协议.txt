@@ -1,190 +1,4 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="format-detection" content="telephone=no,email=no,address=no">
-  <title>广州熊动科技有限公司游戏隐私政策</title>
-  <style>
-    :root {
-      color-scheme: light;
-      --bg: #f6f7f9;
-      --paper: #ffffff;
-      --text: #20242a;
-      --muted: #68707d;
-      --line: #e6e8ec;
-      --accent: #1f5fbf;
-      --accent-soft: #eef4ff;
-      --shadow: 0 18px 50px rgba(20, 31, 51, 0.08);
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      margin: 0;
-      background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
-      line-height: 1.75;
-    }
-
-    .page {
-      width: min(100%, 960px);
-      margin: 0 auto;
-      padding: 32px 18px 56px;
-    }
-
-    .hero {
-      padding: 34px 32px 28px;
-      border: 1px solid var(--line);
-      border-radius: 10px 10px 0 0;
-      background: linear-gradient(180deg, #ffffff 0%, #fbfcff 100%);
-      box-shadow: var(--shadow);
-    }
-
-    .eyebrow {
-      margin: 0 0 10px;
-      color: var(--accent);
-      font-size: 14px;
-      font-weight: 700;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: clamp(28px, 4vw, 42px);
-      line-height: 1.2;
-      letter-spacing: 0;
-    }
-
-    .meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 18px;
-      color: var(--muted);
-      font-size: 14px;
-    }
-
-    .meta span {
-      display: inline-flex;
-      align-items: center;
-      min-height: 30px;
-      padding: 4px 12px;
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      background: var(--paper);
-    }
-
-    .notice {
-      margin: 0;
-      padding: 18px 32px;
-      border-right: 1px solid var(--line);
-      border-left: 1px solid var(--line);
-      background: var(--accent-soft);
-      color: #274a7d;
-      font-size: 15px;
-    }
-
-    .content {
-      padding: 34px 32px 42px;
-      border: 1px solid var(--line);
-      border-radius: 0 0 10px 10px;
-      background: var(--paper);
-      box-shadow: var(--shadow);
-    }
-
-    .agreement {
-      margin: 0;
-      white-space: pre-wrap;
-      overflow-wrap: anywhere;
-      word-break: break-word;
-      color: var(--text);
-      font: inherit;
-      font-size: 16px;
-    }
-
-    .footer {
-      margin-top: 22px;
-      color: var(--muted);
-      font-size: 13px;
-      text-align: center;
-    }
-
-    @media (max-width: 640px) {
-      .page {
-        padding: 0 0 32px;
-      }
-
-      .hero,
-      .content,
-      .notice {
-        border-right: 0;
-        border-left: 0;
-        border-radius: 0;
-        box-shadow: none;
-      }
-
-      .hero {
-        padding: 28px 20px 22px;
-      }
-
-      .notice {
-        padding: 16px 20px;
-      }
-
-      .content {
-        padding: 28px 20px 34px;
-      }
-
-      .agreement {
-        font-size: 15px;
-      }
-    }
-
-    @media print {
-      body {
-        background: #ffffff;
-      }
-
-      .page {
-        width: 100%;
-        padding: 0;
-      }
-
-      .hero,
-      .notice,
-      .content {
-        border: 0;
-        box-shadow: none;
-      }
-
-      .notice {
-        background: #ffffff;
-        color: #333333;
-      }
-    }
-  </style>
-</head>
-<body>
-  <main class="page">
-    <header class="hero">
-      <p class="eyebrow">隐私政策</p>
-      <h1>广州熊动科技有限公司游戏隐私政策</h1>
-      <div class="meta">
-        <span>更新日期：2024年8月5日</span>
-        <span>生效日期：2024年8月5日</span>
-        <span>广州熊动科技有限公司</span>
-      </div>
-    </header>
-    <p class="notice">请您在使用相关游戏服务前仔细阅读并充分理解本隐私政策，特别是个人信息收集、使用、共享、存储、保护及您的相关权利等内容。</p>
-    <section class="content" aria-label="隐私政策正文">
-      <pre class="agreement">广州熊动科技有限公司游戏隐私政策
+广州熊动科技有限公司游戏隐私政策
 更新日期：2024年8月5日
 
 生效日期：2024年8月5日
@@ -399,7 +213,7 @@
 收集个人信息类型或申请的权限：获取OAID、当前已连接上的WIFI信息、运营商信息、应用列表信息、传感器、IP地址；获取联网权限、获取MAC地址 、Android ID、检测当前网络状态 、获取设备标识IMEI、SD卡根目录、手机运营商、手机CPU
 第三方机构名称：广州市动景计算机科技有限公司
 处理方式：采用去标识化、加密传输的安全处理方式
-第三方隐私政策链接或官网链接：https://yingxiao.uc.cn/article_207.html?id=519&amp;bread=&amp;code=all
+第三方隐私政策链接或官网链接：https://yingxiao.uc.cn/article_207.html?id=519&bread=&code=all
 【百度oCPX转化追踪应用SDK】
 收集使用目的：广告投放
 收集个人信息类型或申请的权限：设备信息，如硬件型号，操作系统版本及系统情况，设备配置，国际移动设备身份码 IMEI、国际移动用户识别码 IMSI、网络设备硬件地址 MAC、供应商标识符 IDFV、匿名设备标识符 OAID、Android ID 等设备标识符）、设备连接信息（例如浏览器的类型、电信运营商、使用的语言、WIFI信息）以及设备状态信息（例如设备应用安装列表）。日志信息，如最终用户的IP地址、浏览器的类型和使用的语言、硬件设备信息、操作系统的版本、网络运营商的信息、最终用户访问服务的日期、时间、时长等最终用户在使用我们的产品或服务时提供、形成或留存的信息。读取/写入外部存储卡、获取手机状态和身份
@@ -423,7 +237,7 @@
 收集个人信息类型或申请的权限：网络IP地址、网络类型、注册手机号码、本机号码、国际移动用户标识码、应用进程信息、网络连接类型、网络状态信息、网络地址、运营商类型、手机设备类型、手机设备厂商、手机操作系统类型及版本
 第三方机构名称：天翼数字生活科技有限公司
 处理方式：采用去标识化、加密传输的安全处理方式
-第三方隐私政策链接或官网链接：https://e.189.cn/sdk/agreement/show.do?order=2&amp;type=main&amp;appKey=&amp;hidetop=&amp;returnUrl=
+第三方隐私政策链接或官网链接：https://e.189.cn/sdk/agreement/show.do?order=2&type=main&appKey=&hidetop=&returnUrl=
 【华为推送SDK】
 收集使用目的：提供华为设备的消息推送服务
 收集个人信息类型或申请的权限：应用基本信息（AppID，应用版本号和应用包名，华为推送 SDK 版本号，已安装应用列表用于获取推送服务应用和 HMS Core 应用版本号）、应用内设备标识符（AAID，Push Token）、设备标识符（Android ID）、设备的硬件信息（设备类型，设备型号）、系统基本信息（系统类型，系统版本）、系统设置信息（国家码）、网络信息（BSSID）、获取OAID(开放匿名设备标识符)
@@ -555,7 +369,7 @@
 收集个人信息类型或申请的权限：设备标识符（AAID、PushToken、OAID）、设备信息、应用的基本信息
 第三方机构名称：深圳荣耀软件技术有限公司
 处理方式：采用去标识化、加密传输的安全处理方式
-第三方隐私政策链接或官网链接：https://developer.hihonor.com/cn/kitdoc?category=base&amp;kitId=11002&amp;navigation=guides&amp;docId=sdk-data-security.md
+第三方隐私政策链接或官网链接：https://developer.hihonor.com/cn/kitdoc?category=base&kitId=11002&navigation=guides&docId=sdk-data-security.md
 【Google FCM SDK】
 收集使用目的：移动推送包含Google FCM商推送，以提升消息抵达率
 收集个人信息类型或申请的权限：IP地址、移动广告IDFV、androidID、FireBase安装ID、分析应用等实例、设备信息、推送消息相关信息
@@ -591,7 +405,7 @@
 收集个人信息类型或申请的权限：手机号码、密码、注册短信内容、姓名、身份证号码、行为数据、消费记录、游戏中的相关数据、应用进程列表、设备品牌、设备型号、设备识别码（imei）、邮箱地址、地址、日志记录、设备名称、设备型号、设备识别码（ouid、oaid、duid）、IP 地址、操作系统版本、使用合作游戏SDK的时间和持续时间、软件的事件信息、获取App账户权限、MAC地址
 第三方机构名称：广东欢太科技有限公司
 处理方式：采用去标识化、加密传输的安全处理方式
-第三方隐私政策链接或官网链接：https://ie-activity-cn.heytapimage.com/ie-activity/staticActivity/kpmYVr/htmls/kpmYVr.html?bizType=ie&amp;actId=10001811&amp;c=0&amp;h5-next=1
+第三方隐私政策链接或官网链接：https://ie-activity-cn.heytapimage.com/ie-activity/staticActivity/kpmYVr/htmls/kpmYVr.html?bizType=ie&actId=10001811&c=0&h5-next=1
 【九游游戏SDK】
 收集使用目的：提供账号登录服务、支付服务，实名制防沉迷游戏服务
 收集个人信息类型或申请的权限：设备标识信息（Android ID/IMEI/IMSI/MAC/OAID）、设备信息（设备型号/操作系统版本/设备设置/网络设备信息/设备环境信息）、设备所在位置信息（例如IP地址、GPS位置以及能够提供相关信息的WLAN 接入点、基站等传感器信息）、剪切板信息、应用安装列表、当前运行应用进程、无线网络信息、读取用户账号设备状态、IP地址、BSSID、SSID、移动运营商名称、短信列表
@@ -615,7 +429,7 @@
 收集个人信息类型或申请的权限：设备标识符（Android、IMEI/MEID、IMSI、OAID、Android ID、Serial Number、SIM卡信息（ICCID））、MAC地址，IP 地址、位置信息（WLAN接入点、蓝牙）、设备传感器信息、网络信息、设备信息（手机型号/手机厂商/系统版本）、运行中的进程信息；相册权限、存储权限；应用安装列表、运营商信息
 第三方机构名称：北京抖音科技有限公司、北京深极智能科技有限公司
 处理方式：采用去标识化、加密传输的安全处理方式
-第三方隐私政策链接或官网链接：https://game.open.douyin.com/support/content/131750?graphId=537&amp;mappingType=2&amp;pageId=308&amp;spaceId=182×tamp=1713338185049
+第三方隐私政策链接或官网链接：https://game.open.douyin.com/support/content/131750?graphId=537&mappingType=2&pageId=308&spaceId=182×tamp=1713338185049
 【高德开放平台定位SDK】
 收集使用目的：为了向用户提供定位服务
 收集个人信息类型或申请的权限：位置信息（经纬度、精确位置、粗略位置）【通过IP 地址、GNSS信息、WiFi状态、WiFi参数、WiFi列表、SSID、BSSID、基站信息、信号强度的信息、蓝牙信息、传感器信息（矢量、加速度、压力）、设备信号强度信息获取、外部储存目录】、设备标识信息（IMEI、IDFA、IDFV、Android ID、MEID、MAC地址、OAID、IMSI、ICCID、硬件序列号）、当前应用信息（应用名、应用版本号）、设备参数及系统信息（系统属性、设备型号、操作系统、运营商信息）
@@ -727,9 +541,4 @@
 遵守法律法规的规定，将境内收集的用户个人信息存储于境内。使用现有技术水平下的安全技术和程序，及合理必要的行政管理方面的安全措施以保护您的个人信息，以防信息的泄露、毁损、丢失、及未经授权的访问或不当使用等。上述措施包括但不限于信息加密存储、数据中心的访问控制等。但请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全。您需要了解，您接入的服务所用的系统和通讯网络，有可能因可控范围外的因素而出现问题。在发生个人信息泄露等情形时，会立即采取补救措施，并通知您和履行个人信息保护职责的部门，尽最大可能避免损失。
 
 十二、账户的注销
-您可以通过本隐私政策列明的联系方式与联系要求注销您的游戏账号，如您选择注销账号，在注销账户之后，将停止为您提供产品或服务，并依据您的要求，删除或匿名化处理您的个人信息，但法律法规另有规定的除外。您的账号一旦被注销将不可恢复，在注销账户之后，您将无法再登录、使用相关服务，请您审慎处理，我们将不对因账号注销产生的影响承担责任。</pre>
-    </section>
-    <footer class="footer">© 广州熊动科技有限公司</footer>
-  </main>
-</body>
-</html>
+您可以通过本隐私政策列明的联系方式与联系要求注销您的游戏账号，如您选择注销账号，在注销账户之后，将停止为您提供产品或服务，并依据您的要求，删除或匿名化处理您的个人信息，但法律法规另有规定的除外。您的账号一旦被注销将不可恢复，在注销账户之后，您将无法再登录、使用相关服务，请您审慎处理，我们将不对因账号注销产生的影响承担责任。
