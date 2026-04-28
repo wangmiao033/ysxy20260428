@@ -18,13 +18,8 @@
       --shadow: 0 18px 50px rgba(20, 31, 51, 0.08);
     }
 
-    * {
-      box-sizing: border-box;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
 
     body {
       margin: 0;
@@ -117,57 +112,24 @@
     }
 
     @media (max-width: 640px) {
-      .page {
-        padding: 0 0 32px;
-      }
-
-      .hero,
-      .content,
-      .notice {
+      .page { padding: 0 0 32px; }
+      .hero, .content, .notice {
         border-right: 0;
         border-left: 0;
         border-radius: 0;
         box-shadow: none;
       }
-
-      .hero {
-        padding: 28px 20px 22px;
-      }
-
-      .notice {
-        padding: 16px 20px;
-      }
-
-      .content {
-        padding: 28px 20px 34px;
-      }
-
-      .agreement {
-        font-size: 15px;
-      }
+      .hero { padding: 28px 20px 22px; }
+      .notice { padding: 16px 20px; }
+      .content { padding: 28px 20px 34px; }
+      .agreement { font-size: 15px; }
     }
 
     @media print {
-      body {
-        background: #ffffff;
-      }
-
-      .page {
-        width: 100%;
-        padding: 0;
-      }
-
-      .hero,
-      .notice,
-      .content {
-        border: 0;
-        box-shadow: none;
-      }
-
-      .notice {
-        background: #ffffff;
-        color: #333333;
-      }
+      body { background: #ffffff; }
+      .page { width: 100%; padding: 0; }
+      .hero, .notice, .content { border: 0; box-shadow: none; }
+      .notice { background: #ffffff; color: #333333; }
     }
   </style>
 </head>
